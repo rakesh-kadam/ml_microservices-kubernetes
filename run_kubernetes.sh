@@ -5,7 +5,7 @@
 # Step 1:
 # This is your Docker ID/path
 # dockerpath=<>
-dockerpath='rakeshkadam/flaskapp'
+dockerpath='rakeshkadam/flaskapp:latest'
 # Step 2
 # Run the Docker Hub container with kubernetes
 kubectl run flaskapp --image=$dockerpath --port=80
