@@ -1,5 +1,7 @@
 <include a CircleCI status badge, here>
 
+[![<ORG_NAME>](https://circleci.com/github/rakesh-kadam/ml_microservices-kubernetes.svg?style=svg)](<LINK>)
+
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
