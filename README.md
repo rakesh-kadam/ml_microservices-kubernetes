@@ -1,6 +1,6 @@
 <include a CircleCI status badge, here>
 
-[![<ORG_NAME>](https://circleci.com/github/rakesh-kadam/ml_microservices-kubernetes.svg?style=svg)](<LINK>)
+[![rakesh-kadam](https://circleci.com/github/rakesh-kadam/ml_microservices-kubernetes.svg?style=svg)](<LINK>)
 
 ## Project Overview
 
