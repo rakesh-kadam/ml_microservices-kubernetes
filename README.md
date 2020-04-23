@@ -1,6 +1,4 @@
-<include a CircleCI status badge, here>
-
-[![rakesh-kadam](https://circleci.com/github/rakesh-kadam/ml_microservices-kubernetes.svg?style=svg)](<LINK>)
+[![CircleCI](https://circleci.com/gh/rakesh-kadam/ml_microservices-kubernetes.svg?style=svg)](https://circleci.com/gh/rakesh-kadam/ml_microservices-kubernetes)
 
 ## Project Overview
 
